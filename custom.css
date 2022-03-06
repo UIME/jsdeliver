@@ -45,13 +45,13 @@ html,body {
     background-color: #f1f2f3;
     padding: 12px 0;
 }
-.header-menu .a-link {
+.navbar-nav a {
     text-transform: uppercase;
     font-family: 'Oswald',Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: #000000;
 }
-.header-menu .a-link:hover {
+.navbar-nav a:hover {
     color: #a7afa2;
 }
 .header-menu .nav-item {
